@@ -9,10 +9,10 @@ CreativeCommons ライセンスは数種類に分かれますが、「TRPGシナ
 これは、本書のコピーまたは修正したものの再配布は、以下の著作権表示をすれば用途に限らず許可無く自由にやってもらってかまわない、というものです。商業用に使ってもかまいません。
 
 ## ライセンス表示文
- TRPGシナリオ作成の道具箱 by HIKAWA Kilica is licensed under a Creative Commons 表示 2.1 日本 License.
- www.trpg-labo.comにある作品に基づいている。
+> TRPGシナリオ作成の道具箱 by HIKAWA Kilica is licensed under a Creative Commons 表示 2.1 日本 License.
+> www.trpg-labo.comにある作品に基づいている。
 
- <a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by/2.1/jp/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TRPGシナリオ作成の道具箱</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="trpg-labo.com" property="cc:attributionName" rel="cc:attributionURL">HIKAWA Kilica</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/">Creative Commons 表示 2.1 日本 License</a>.
+  <a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by/2.1/jp/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TRPGシナリオ作成の道具箱</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="trpg-labo.com" property="cc:attributionName" rel="cc:attributionURL">HIKAWA Kilica</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/">Creative Commons 表示 2.1 日本 License</a>.
 
 
 ひとつだけご注意いただきたいのは、今回ライセンスしているのは文章だけという点です。
@@ -29,14 +29,14 @@ CreativeCommons ライセンスは数種類に分かれますが、「TRPGシナ
 
 ## ライセンスについてのQ&A
 
-:Q. 本書の内容を、自分のウェブサイトに載せてもいいですか？|A. ライセンス表示文を同じページに表示していれば構いません。前記のとおり、スキャン＆アップロードはやめてね。
+* __Q. 本書の内容を、自分のウェブサイトに載せてもいいですか？__ 　A. ライセンス表示文を同じページに表示していれば構いません。前記のとおり、スキャン＆アップロードはやめてね。
 
-:Q. ライセンス表示文は、ウェブサイトの別ページに掲載してもかまいませんか？|A. ウェブサイトに掲載する場合、ライセンス表示文は必ず本書の内容を掲載したすべてのページに表示してください。
+* __Q. ライセンス表示文は、ウェブサイトの別ページに掲載してもかまいませんか？__ 　A. ウェブサイトに掲載する場合、ライセンス表示文は必ず本書の内容を掲載したすべてのページに表示してください。
 
-:Q. 本書の内容を同人誌に入れて売ってもいいですか？|A. ライセンス表示文を同人誌の中に入れていれば構いません。別ページでもかまいませんが、どの部分がそうなのかはわかるようにしてください。
+* __Q. 本書の内容を同人誌に入れて売ってもいいですか？__ 　A. ライセンス表示文を同人誌の中に入れていれば構いません。別ページでもかまいませんが、どの部分がそうなのかはわかるようにしてください。
 
-:Q. 本書の内容を商業誌に入れて売ってもいいですか？|A. 本ライセンスに同人誌、商業誌という区別はありません。同人誌の場合と同様、問題ありません。
+* __Q. 本書の内容を商業誌に入れて売ってもいいですか？__ 　A. 本ライセンスに同人誌、商業誌という区別はありません。同人誌の場合と同様、問題ありません。
 
-:Q. ウェブに掲載したり同人誌で出す場合、筆者に連絡する必要はありますか？|A. ありません。が、連絡していただけると筆者は喜びます。そうするとバージョンアップした「TRPGシナリオ作成の道具箱」が出るかもしれません。
+* __Q. ウェブに掲載したり同人誌で出す場合、筆者に連絡する必要はありますか？__ 　A. ありません。が、連絡していただけると筆者は喜びます。そうするとバージョンアップした「TRPGシナリオ作成の道具箱」が出るかもしれません。
 
-:Q. ウェブに掲載したり同人誌で出す場合、独自のライセンス条件（CC BY-NCや転載不可など）を設定できますか？|できます。ただし何があろうと、ライセンス表示文を削除しないことが条件です。
+* __Q. ウェブに掲載したり同人誌で出す場合、独自のライセンス条件（CC BY-NCや転載不可など）を設定できますか？__ 　できます。ただし何があろうと、ライセンス表示文を削除しないことが条件です。
